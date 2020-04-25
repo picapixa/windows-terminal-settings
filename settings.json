@@ -43,8 +43,7 @@
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "X:\\home\\raffy",
                 "fontFace": "Delugia Nerd Font",
-                "colorScheme": "One Half Dark",
-                "padding": "20, 0"    
+                "colorScheme": "One Half Dark"
             },
             {
                 // Make changes here to the powershell.exe profile.

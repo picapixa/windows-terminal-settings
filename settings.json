@@ -41,7 +41,7 @@
                 "hidden": false,
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
-                "startingDirectory": "X:\\home\\raffy",
+                "startingDirectory": "//wsl$/Ubuntu/home/raffy",
                 "fontFace": "Delugia Nerd Font",
                 "colorScheme": "One Half Dark"
             },

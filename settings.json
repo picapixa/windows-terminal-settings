@@ -43,7 +43,8 @@
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "//wsl$/Ubuntu/home/raffy",
                 "fontFace": "Delugia Nerd Font",
-                "colorScheme": "One Half Dark"
+                "colorScheme": "One Half Dark",
+                "icon": "X:\\home\\raffy\\iconfinder_ubuntu-logo_3166.png"
             },
             {
                 // Make changes here to the powershell.exe profile.
